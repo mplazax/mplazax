@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-My name is Michał and i study computer science.
+My name is Michał and I study computer science. I'm looking to collaborate on ML projects.
+
+Contact me at:
+- [Facebook](https://www.facebook.com/michalplaza9)
+- [LinkedIn](https://www.linkedin.com/in/michal-plaza/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mplazax)
 <!--
