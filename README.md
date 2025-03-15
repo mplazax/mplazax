@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Michał and i study computer science.
+
+![Profile Views](https://komarev.com/ghpvc/?username=mplazax)
 <!--
 **mplazax/mplazax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
