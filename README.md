@@ -1,23 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Michał Plaza 👋
 
-My name is Michał and I study computer science. I'm looking to collaborate on ML projects.
+![Your Banner Image Here - Optional]()
 
-Contact me at:
-- [Facebook](https://www.facebook.com/michalplaza9)
-- [LinkedIn](https://www.linkedin.com/in/michal-plaza/)
+🎓 I'm a 3rd-year Computer Science student at AGH University of Science and Technology in Kraków, Poland.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mplazax)
-<!--
-**mplazax/mplazax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about exploring the vast landscape of computing! My interests range from building efficient **Backend Systems** and exploring **AI/Machine Learning** advancements to diving into **Low-Level Programming** with C++, understanding hardware interactions, and even dabbling in **Computer Graphics** and **Game Development** concepts. I'm fascinated by the 'why' and 'how' behind technology, including theoretical CS.
 
-Here are some ideas to get you started:
+🌱 **Currently Learning & Exploring:**
+*   Modern Backend Frameworks: Focusing on **FastAPI** 🐍
+*   High-Performance Languages: Learning **Go** and **Rust** 🦀
+*   Deepening my **Machine Learning** knowledge (via Coursera & personal projects)
+*   Continuously improving my **C++** skills for systems and graphics work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Experience:**
+*   Co-founded **Venti Labs**, leading development and delivering a Python/Django application for the renewable energy sector.
+
+🔭 **Seeking:**
+*   Challenging **Software Engineering / Backend / ML Internship** opportunities where I can learn, contribute, and grow.
+
+📫 **Connect with me:**
+*   [LinkedIn](https://www.linkedin.com/in/michal-plaza/)
+
+<!-- Optional: Add GitHub Stats, Top Languages, etc. -->
