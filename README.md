@@ -1,5 +1,3 @@
-# Hi there, I'm Michał Plaza 👋
-
 ![Your Banner Image Here - Optional](banner.png)
 
 🎓 I'm a 3rd-year Computer Science student at AGH University of Science and Technology in Kraków, Poland.
