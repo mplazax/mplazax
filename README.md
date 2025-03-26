@@ -1,5 +1,3 @@
-![Your Banner Image Here - Optional](banner.png)
-
 🎓 I'm a 3rd-year Computer Science student at AGH University of Science and Technology in Kraków, Poland.
 
 🚀 Passionate about exploring the vast landscape of computing! My interests range from building efficient **Backend Systems** and exploring **AI/Machine Learning** advancements to diving into **Low-Level Programming** with C++, understanding hardware interactions, and even dabbling in **Computer Graphics** and **Game Development** concepts. I'm fascinated by the 'why' and 'how' behind technology, including theoretical CS.
