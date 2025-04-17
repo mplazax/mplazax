@@ -12,7 +12,7 @@
 *   Co-founded **Venti Labs**, leading development and delivering a Python/Django application for the renewable energy sector.
 
 🔭 **Seeking:**
-*   Challenging **Software Engineering / Backend / ML Internship** opportunities where I can learn, contribute, and grow.
+*   Challenging **Software Engineering** opportunities where I can learn, contribute, and grow.
 
 📫 **Connect with me:**
 *   [LinkedIn](https://www.linkedin.com/in/michal-plaza/)
