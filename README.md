@@ -4,4 +4,4 @@
 
 💼 Co-founded Venti Labs (Python/Django for renewable energy). Seeking demanding SWE challenges focused on impactful problem-solving and system architecture.
 
-📫 Connect: [[LinkedIn URL](https://www.linkedin.com/in/michal-plaza/)]
+📫 Connect: [LinkedIn URL](https://www.linkedin.com/in/michal-plaza/)
