@@ -1,1 +1,1 @@
-Fluent in Stack Overflow and cryptic error messages.
+Just want to know how things work.
